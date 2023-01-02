@@ -46,6 +46,7 @@ Darpan Registration - https://auditorwala.web.app/NGO%20and%20Trust/darpan-regis
 Income Tax Audit - https://auditorwala.web.app/Audits/income-tax-audit.html
 Company Audit - https://auditorwala.web.app/Audits/company-audit.html
 Stock Audit - https://auditorwala.web.app/Audits/stock-audit.html
+Internal Audit - https://auditorwala.web.app/Audits/internal-audit.html
 Company Filings - https://auditorwala.web.app/Audits/company-filings.html
 
 # Certification
