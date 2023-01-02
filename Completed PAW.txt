@@ -39,7 +39,14 @@ CSR-1 Registration - https://auditorwala.web.app/NGO%20and%20Trust/csr-1-registr
 12AA Registration - https://auditorwala.web.app/NGO%20and%20Trust/12aa-registration.html
 80G and 12A Registration - https://auditorwala.web.app/NGO%20and%20Trust/80g-and-12a-registration.html
 -02/01/23
-Darpan Registration - 
+Darpan Registration - https://auditorwala.web.app/NGO%20and%20Trust/darpan-registration.html
+
+# Audits
+-02/01/23
+Income Tax Audit - https://auditorwala.web.app/Audits/income-tax-audit.html
+Company Audit - https://auditorwala.web.app/Audits/company-audit.html
+Stock Audit - https://auditorwala.web.app/Audits/stock-audit.html
+Company Filings - https://auditorwala.web.app/Audits/company-filings.html
 
 # Certification
 -28/12/22
