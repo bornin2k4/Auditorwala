@@ -1,0 +1,87 @@
+Public-5:
+    # <w> Home    <links> <firebase> <if-form-change-no>
+    # get-started    <cancelled>
+    # <w> Partner-with-us    <if-form-change-no>
+    # <w> consult-a-ca-and-cs    <if-form-change-no>
+    # <c> privacy-policy 
+    # <c> terms-and-conditions
+    # <c> sitemap 
+
+    Business Registration-6:
+        # <c> <28-12-22> <me> sole-proprietorship-registration    <No-Price>
+        # <c> <28-12-22> <me> partnership-firm-registration    <single-price>
+        # <c> <28-12-22> <kalai> limited-liability-partnership    <single-price>
+        # <c> <30-12-22> <me> private-limited-company    <double-price>
+        # <c> <29-12-22> <kalai> one-person-company    <single-price>
+        # <c> <28-12-22> <me> nidhi-company-registration    <No-Price>
+
+    Licenses and Registration-6:
+        # <c> <29-12-22> <me> msme-registration <single-price>
+        # <c> <29-12-22> <Dhanapal> import-and-export-code <single-price>
+        # <c> <31-12-22> <Dhanapal> fssai-license <single-price>
+        # <c> <30-12-22> <kalai> professional-tax-registration <single-price>
+        # <c> <30-12-22> <kalai> digital-signature-certificate <single-price>
+        # <c> <30-12-22> <me>esi-and-pf-registration <single-Price>
+
+    NGO and Trust-9:
+        # <c> <01-12-23> <Dhanapal> ngo-registration <No-Price>
+        # <c> <31-12-22> <kalai> trust-registration <single-price>
+        # <c> <31-12-22> <Dhanapal> society-registration <No-Price>
+        # <c> <31-12-22> <Kalai> section-8-company-registration <No-price>
+        # <c> <01-12-23> <me> fcra-registration <No-Price>
+        # <c> <01-12-23> <Dhanapal> 80g-and-12a-registration <No-Price>
+        # <c> <01-12-23> <Kalai> 12aa-registration <No-Price>
+        # <c> <02-12-23> <Kalai> darpan-registration <No-Price>
+        # <c> <01-12-23> <me> csr-1-registration <No-Price>
+
+    Audits-5:
+        # <c> <02-12-23> <Dhanapal> income-tax-audit <No-Price>
+        # <c> <02-12-23> <Dhanapal> company-audit <No-Price>
+        # <c> <02-12-23> <Dhanapal> stock-audit <No-Price>
+        # <03-12-23> <Dhanapal> internal-audit <No-Price>
+        # <02-12-23> <me>company-filings <No-Price>
+
+    Certification-9:
+        # <c> <28-12-22> <me> networth-certificate-for-visa    <single-price>
+        # 15ca-and-15cb
+        # ownership-certificate
+        # turnover-certificate
+        # certificate-for-tender-purpose
+        # p-and-l-and-balance-sheet-certification
+        # loan-purpose-certification
+        # itr-certificate
+        # other-ca-certification
+
+    GST-6:
+        # <c> <28-12-22> <me> gst-registration
+        # gst-monthly-return-filing
+        # gst-annual-return-filing
+        # gst-lut-filing
+        # gst-advisory-services
+        # gst-registration-cancellation
+
+    Compliances-5:
+        # tds-return-filing
+        # pf-return-filing 
+        # tds-on-property
+        # tds-on-sale-of-property-nri
+        # sale-of-property
+
+    Tax Filing-7:
+        # itr-1-return-filing
+        # itr-2-return-filing
+        # itr-3-return-filing
+        # itr-4-return-filing
+        # itr-5-return-filing
+        # itr-6-return-filing
+        # itr-7-return-filing
+
+    Trademark-5:
+        # trademark-registration
+        # trademark-renewal
+        # trademark-objection
+        # trademark-rectification
+        # trademark-assignment
+
+
+Total Pages: 63
