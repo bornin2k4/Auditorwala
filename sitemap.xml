@@ -21,36 +21,36 @@ Public-5:
         # <c> <31-12-22> <Dhanapal> fssai-license <single-price>
         # <c> <30-12-22> <kalai> professional-tax-registration <single-price>
         # <c> <30-12-22> <kalai> digital-signature-certificate <single-price>
-        # <c> <30-12-22> <me> esi-and-pf-registration <single-Price>
+        # <c> <30-12-22> <me>esi-and-pf-registration <single-Price>
 
     NGO and Trust-9:
-        # <c> <01-12-23> <Dhanapal> ngo-registration <No-Price>
+        # <c> <01-01-23> <Dhanapal> ngo-registration <No-Price>
         # <c> <31-12-22> <kalai> trust-registration <single-price>
         # <c> <31-12-22> <Dhanapal> society-registration <No-Price>
         # <c> <31-12-22> <Kalai> section-8-company-registration <No-price>
-        # <c> <01-12-23> <me> fcra-registration <No-Price>
-        # <c> <01-12-23> <Dhanapal> 80g-and-12a-registration <No-Price>
-        # <c> <01-12-23> <Kalai> 12aa-registration <No-Price>
+        # <c> <01-01-23> <me> fcra-registration <No-Price>
+        # <c> <01-01-23> <Dhanapal> 80g-and-12a-registration <No-Price>
+        # <c> <01-01-23> <Kalai> 12aa-registration <No-Price>
         # <c> <02-12-23> <Kalai> darpan-registration <No-Price>
-        # <c> <01-12-23> <me> csr-1-registration <No-Price>
+        # <c> <01-01-23> <me> csr-1-registration <No-Price>
 
     Audits-5:
-        # <c> <02-12-23> <Dhanapal> income-tax-audit <No-Price>
-        # <c> <02-12-23> <Dhanapal> company-audit <No-Price>
-        # <c> <02-12-23> <Dhanapal> stock-audit <No-Price>
-        # <c> <02-12-23> <Dhanapal> internal-audit <No-Price>
-        # <c> <02-12-23> <me> company-filings <No-Price>
+        # <c> <02-01-23> <Dhanapal> income-tax-audit <No-Price>
+        # <c> <02-01-23> <Dhanapal> company-audit <No-Price>
+        # <c> <02-01-23> <Dhanapal> stock-audit <No-Price>
+        # <c> <02-01-23> <Dhanapal> internal-audit <No-Price>
+        # <c> <02-01-23> <me> company-filings <No-Price>
 
     Certification-9:
         # <c> <28-12-22> <me> networth-certificate-for-visa    <single-price>
-        # 15ca-and-15cb
-        # ownership-certificate
-        # turnover-certificate
-        # certificate-for-tender-purpose
-        # p-and-l-and-balance-sheet-certification
-        # loan-purpose-certification
-        # itr-certificate
-        # other-ca-certification
+        # <c> <03-01-23> <Dhanapal> 15ca-and-15cb
+        # <c> <03-01-23> <Dhanapal> ownership-certificate
+        # <c> <03-01-23> <Dhanapal> turnover-certificate
+        # <c> <03-01-23> <Kalai> certificate-for-tender-purpose
+        # <c> <03-01-23> <Dhanapal> p-and-l-and-balance-sheet-certification
+        # <04-01-23> <Dhanapal> loan-purpose-certification
+        # <04-01-23> <Dhanapal> itr-certificate
+        # <c> <03-01-23> <me> other-ca-certification
 
     GST-6:
         # <c> <28-12-22> <me> gst-registration
