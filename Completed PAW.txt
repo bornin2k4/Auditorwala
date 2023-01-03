@@ -52,6 +52,13 @@ Company Filings - https://auditorwala.web.app/Audits/company-filings.html
 # Certification
 -28/12/22
 NetWorth Certificate For Visa - https://auditorwala.web.app/Certification/networth-certificate-for-visa.html
+-03-01-23
+15CA & 15CB - https://auditorwala.web.app/Certification/15ca-and-15cb.html
+Ownership Certificate - https://auditorwala.web.app/Certification/ownership-certificate.html
+Turnover Certificate - https://auditorwala.web.app/Certification/turnover-certificate.html
+Certificate For Tender Purpose - https://auditorwala.web.app/Certification/certificate-for-tender-purpose.html
+P&L and Balance Sheet Certificate - https://auditorwala.web.app/Certification/p-and-l-and-balance-sheet-certification.html
+Other CA Certification - https://auditorwala.web.app/Certification/other-ca-certification.html
 
 # GST
 -28/12/22
