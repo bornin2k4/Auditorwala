@@ -48,8 +48,8 @@ Public-5:
         # <c> <03-01-23> <Dhanapal> turnover-certificate
         # <c> <03-01-23> <Kalai> certificate-for-tender-purpose
         # <c> <03-01-23> <Dhanapal> p-and-l-and-balance-sheet-certification
-        # <04-01-23> <Dhanapal> loan-purpose-certification
-        # <04-01-23> <Dhanapal> itr-certificate
+        # <c> <04-01-23> <Dhanapal> loan-purpose-certification
+        # <c> <04-01-23> <Dhanapal> itr-certificate
         # <c> <03-01-23> <me> other-ca-certification
 
     GST-6:
