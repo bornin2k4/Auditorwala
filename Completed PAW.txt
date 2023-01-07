@@ -66,3 +66,13 @@ ITR Certificate - https://auditorwala.web.app/Certification/itr-certificate.html
 # GST
 -28/12/22
 GST Registration - https://auditorwala.web.app/GST/gst-registration.html
+-05/01/23
+GST LUT Filing - https://auditorwala.web.app/GST/gst-lut-filing.html
+GST Advisory Serices - https://auditorwala.web.app/GST/gst-advisory-services.html
+GST Registration Cancellation - https://auditorwala.web.app/GST/gst-registration-cancellation.html
+
+# Compliances
+-07/01/23
+TDS Return Filing - https://auditorwala.web.app/Compliances/tds-return-filing.html
+PF Return Filing - https://auditorwala.web.app/Compliances/pf-return-filing.html
+TDS on Property(26 QB) - https://auditorwala.web.app/Compliances/tds-on-property.html
