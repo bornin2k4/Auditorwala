@@ -43,29 +43,29 @@ Public-5:
 
     Certification-9:
         # <c> <28-12-22> <me> networth-certificate-for-visa    <single-price>
-        # <c> <03-01-23> <Dhanapal> 15ca-and-15cb
-        # <c> <03-01-23> <Dhanapal> ownership-certificate
-        # <c> <03-01-23> <Dhanapal> turnover-certificate
-        # <c> <03-01-23> <Kalai> certificate-for-tender-purpose
-        # <c> <03-01-23> <Dhanapal> p-and-l-and-balance-sheet-certification
-        # <c> <04-01-23> <Dhanapal> loan-purpose-certification
-        # <c> <04-01-23> <Dhanapal> itr-certificate
-        # <c> <03-01-23> <me> other-ca-certification
+        # <c> <03-01-23> <Dhanapal> 15ca-and-15cb <single-price>
+        # <c> <03-01-23> <Dhanapal> ownership-certificate <single-price>
+        # <c> <03-01-23> <Dhanapal> turnover-certificate <single-price>
+        # <c> <03-01-23> <Kalai> certificate-for-tender-purpose <single-price>
+        # <c> <03-01-23> <Dhanapal> p-and-l-and-balance-sheet-certification <single-price>
+        # <c> <04-01-23> <Dhanapal> loan-purpose-certification <single-price>
+        # <c> <04-01-23> <Dhanapal> itr-certificate <single-price>
+        # <c> <03-01-23> <me> other-ca-certification <no-price>
 
     GST-6:
-        # <c> <28-12-22> <me> gst-registration
-        # gst-monthly-return-filing
-        # gst-annual-return-filing
-        # gst-lut-filing
-        # gst-advisory-services
-        # gst-registration-cancellation
+        # <c> <28-12-22> <me> gst-registration <3-plans>
+        # <me> gst-monthly-return-filing <3-plans>
+        # <me> gst-annual-return-filing <3-plans>
+        # <c> <05-01-23> <Dhanapal> gst-lut-filing     <no-price>
+        # <c> <05-01-23> <Dhanapal> gst-advisory-services     <no-price>
+        # <c> <05-01-23> <Dhanapal> gst-registration-cancellation     <no-price>
 
     Compliances-5:
-        # tds-return-filing
-        # pf-return-filing 
-        # tds-on-property
-        # tds-on-sale-of-property-nri
-        # sale-of-property
+        # <c> <07-01-23> <Dhanapal> tds-return-filing
+        # <c> <07-01-23> <Dhanapal> pf-return-filing 
+        # <c> <07-01-23> <Dhanapal> tds-on-property
+        # <Dhanapal> tds-on-sale-of-property-nri
+        # <Dhanapal> sale-of-property
 
     Tax Filing-7:
         # itr-1-return-filing
@@ -84,4 +84,14 @@ Public-5:
         # trademark-assignment
 
 
-Total Pages: 63
+# Total Pages: 63
+
+# Total Pages Complete Count 
+Thalha - 17
+
+
+# Service Pages: 58
+# Service Pages Complete Count - 46
+Thalha - 12
+Kalai - 9
+Dhanapal - 21
