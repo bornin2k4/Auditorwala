@@ -76,3 +76,14 @@ GST Registration Cancellation - https://auditorwala.web.app/GST/gst-registration
 TDS Return Filing - https://auditorwala.web.app/Compliances/tds-return-filing.html
 PF Return Filing - https://auditorwala.web.app/Compliances/pf-return-filing.html
 TDS on Property(26 QB) - https://auditorwala.web.app/Compliances/tds-on-property.html
+-08/01/23
+TDS on Sale of Property (NRI) - https://auditorwala.web.app/Compliances/tds-on-sale-of-property-nri.html
+Sale of Property(Capital gain Tax Planning) - https://auditorwala.web.app/Compliances/sale-of-property.html
+
+# Trademark
+-10/01/23
+Trademark Registration - https://auditorwala.web.app/Trademark/trademark-registration.html
+Trademark Renewal - https://auditorwala.web.app/Trademark/trademark-renewal.html
+Trademark Objection - https://auditorwala.web.app/Trademark/trademark-objection.html
+Trademark Rectification - https://auditorwala.web.app/Trademark/trademark-rectification.html
+Trademark Assignment - https://auditorwala.web.app/Trademark/trademark-assignment.html
