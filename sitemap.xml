@@ -64,8 +64,8 @@ Public-5:
         # <c> <07-01-23> <Dhanapal> tds-return-filing
         # <c> <07-01-23> <Dhanapal> pf-return-filing 
         # <c> <07-01-23> <Dhanapal> tds-on-property
-        # <Dhanapal> tds-on-sale-of-property-nri
-        # <Dhanapal> sale-of-property
+        # <c> <08-01-23> <Dhanapal> tds-on-sale-of-property-nri
+        # <c> <08-01-23> <Dhanapal> sale-of-property
 
     Tax Filing-7:
         # itr-1-return-filing
@@ -77,11 +77,11 @@ Public-5:
         # itr-7-return-filing
 
     Trademark-5:
-        # trademark-registration
-        # trademark-renewal
-        # trademark-objection
-        # trademark-rectification
-        # trademark-assignment
+        # <c> <10-01-23> <Dhanapal> trademark-registration
+        # <c> <10-01-23> <Dhanapal> trademark-renewal
+        # <c> <10-01-23> <Dhanapal> trademark-objection
+        # <c> <10-01-23> <Kalai> trademark-rectification
+        # <c> <10-01-23> <Kalai> trademark-assignment
 
 
 # Total Pages: 63
@@ -91,7 +91,7 @@ Thalha - 17
 
 
 # Service Pages: 58
-# Service Pages Complete Count - 46
+# Service Pages Complete Count - 48
 Thalha - 12
-Kalai - 9
-Dhanapal - 21
+Kalai - 11
+Dhanapal - 26
