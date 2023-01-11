@@ -1,97 +1,97 @@
-Public-5:
-    # <w> Home    <links> <firebase> <if-form-change-no>
-    # get-started    <cancelled>
-    # <w> Partner-with-us    <if-form-change-no>
-    # <w> consult-a-ca-and-cs    <if-form-change-no>
-    # <c> privacy-policy 
-    # <c> terms-and-conditions
-    # <c> sitemap 
+Home - https://auditorwala.web.app
+Partner with Us - https://auditorwala.web.app/partner-with-us.html
+Consult a CA/CS - https://auditorwala.web.app/consult-an-expert.html
+Terms and Conditions - https://auditorwala.web.app/terms-and-conditions.html
+Privacy Policy - https://auditorwala.web.app/privacy-policy.html
+Sitemap - https://auditorwala.web.app/sitemap.html
 
-    Business Registration-6:
-        # <c> <28-12-22> <me> sole-proprietorship-registration    <No-Price>
-        # <c> <28-12-22> <me> partnership-firm-registration    <single-price>
-        # <c> <28-12-22> <Kalai> limited-liability-partnership    <single-price>
-        # <c> <30-12-22> <me> private-limited-company    <double-price>
-        # <c> <29-12-22> <Kalai> one-person-company    <single-price>
-        # <c> <28-12-22> <me> nidhi-company-registration    <No-Price>
+# Business Registration
+-28/12/22
+Sole Proprietorship Registration - https://auditorwala.web.app/Business%20Registration/sole-proprietorship-registration.html
+Partnership Firm Registration - https://auditorwala.web.app/Business%20Registration/partnership-firm-registration.html
+Nidhi Company Registration - https://auditorwala.web.app/Business%20Registration/nidhi-company-registration.html
+-29/12/22
+Limited Liability Partnership - https://auditorwala.web.app/Business%20Registration/limited-liability-partnership.html
+One Person Company - https://auditorwala.web.app/Business%20Registration/one-person-company.html
+-30/12/22
+Private Limited Company - https://auditorwala.web.app/Business%20Registration/private-limited-company.html
 
-    Licenses and Registration-6:
-        # <c> <29-12-22> <me> msme-registration <single-price>
-        # <c> <29-12-22> <Dhanapal> import-and-export-code <single-price>
-        # <c> <31-12-22> <Dhanapal> fssai-license <single-price>
-        # <c> <30-12-22> <Kalai> professional-tax-registration <single-price>
-        # <c> <30-12-22> <Kalai> digital-signature-certificate <single-price>
-        # <c> <30-12-22> <me>esi-and-pf-registration <single-Price>
+# Licenses and Registration
+-29/12/22
+MSME Registration - https://auditorwala.web.app/Licenses%20and%20Registration/msme-registration.html
+Import and Export Code - https://auditorwala.web.app/Licenses%20and%20Registration/import-and-export-code.html
+-30/12/22
+Professional Tax Registration - https://auditorwala.web.app/Licenses%20and%20Registration/professional-tax-registration.html
+Digital Signature Certificate - https://auditorwala.web.app/Licenses%20and%20Registration/digital-signature-certificate.html
+ESI and PF Registration - https://auditorwala.web.app/Licenses%20and%20Registration/esi-and-pf-registration.html
+-31/12/22
+FSSAI License - https://auditorwala.web.app/Licenses%20and%20Registration/fssai-license.html
 
-    NGO and Trust-9:
-        # <c> <01-01-23> <Dhanapal> ngo-registration <No-Price>
-        # <c> <31-12-22> <Kalai> trust-registration <single-price>
-        # <c> <31-12-22> <Dhanapal> society-registration <No-Price>
-        # <c> <31-12-22> <Kalai> section-8-company-registration <No-price>
-        # <c> <01-01-23> <me> fcra-registration <No-Price>
-        # <c> <01-01-23> <Dhanapal> 80g-and-12a-registration <No-Price>
-        # <c> <01-01-23> <Kalai> 12aa-registration <No-Price>
-        # <c> <02-12-23> <Kalai> darpan-registration <No-Price>
-        # <c> <01-01-23> <me> csr-1-registration <No-Price>
+# NGO And Trust
+- 31/12/22
+Trust Registration - https://auditorwala.web.app/NGO%20and%20Trust/trust-registration.html
+Society Registration - https://auditorwala.web.app/NGO%20and%20Trust/society-registration.html
+Section 8 Company Registration - https://auditorwala.web.app/NGO%20and%20Trust/section-8-company-registration.html
+- 01/01/23
+NGO Registration - https://auditorwala.web.app/NGO%20and%20Trust/ngo-registrations.html
+FCRA Registration - https://auditorwala.web.app/NGO%20and%20Trust/fcra-registration.html
+CSR-1 Registration - https://auditorwala.web.app/NGO%20and%20Trust/csr-1-registration.html
+12AA Registration - https://auditorwala.web.app/NGO%20and%20Trust/12aa-registration.html
+80G and 12A Registration - https://auditorwala.web.app/NGO%20and%20Trust/80g-and-12a-registration.html
+-02/01/23
+Darpan Registration - https://auditorwala.web.app/NGO%20and%20Trust/darpan-registration.html
 
-    Audits-5:
-        # <c> <02-01-23> <Dhanapal> income-tax-audit <No-Price>
-        # <c> <02-01-23> <Dhanapal> company-audit <No-Price>
-        # <c> <02-01-23> <Dhanapal> stock-audit <No-Price>
-        # <c> <02-01-23> <Dhanapal> internal-audit <No-Price>
-        # <c> <02-01-23> <me> company-filings <No-Price>
+# Audits
+-02/01/23
+Income Tax Audit - https://auditorwala.web.app/Audits/income-tax-audit.html
+Company Audit - https://auditorwala.web.app/Audits/company-audit.html
+Stock Audit - https://auditorwala.web.app/Audits/stock-audit.html
+Internal Audit - https://auditorwala.web.app/Audits/internal-audit.html
+Company Filings - https://auditorwala.web.app/Audits/company-filings.html
 
-    Certification-9:
-        # <c> <28-12-22> <me> networth-certificate-for-visa    <single-price>
-        # <c> <03-01-23> <Dhanapal> 15ca-and-15cb <single-price>
-        # <c> <03-01-23> <Dhanapal> ownership-certificate <single-price>
-        # <c> <03-01-23> <Dhanapal> turnover-certificate <single-price>
-        # <c> <03-01-23> <Kalai> certificate-for-tender-purpose <single-price>
-        # <c> <03-01-23> <Dhanapal> p-and-l-and-balance-sheet-certification <single-price>
-        # <c> <04-01-23> <Dhanapal> loan-purpose-certification <single-price>
-        # <c> <04-01-23> <Dhanapal> itr-certificate <single-price>
-        # <c> <03-01-23> <me> other-ca-certification <no-price>
+# Certification
+-28/12/22
+NetWorth Certificate For Visa - https://auditorwala.web.app/Certification/networth-certificate-for-visa.html
+-03/01/23
+15CA & 15CB - https://auditorwala.web.app/Certification/15ca-and-15cb.html
+Ownership Certificate - https://auditorwala.web.app/Certification/ownership-certificate.html
+Turnover Certificate - https://auditorwala.web.app/Certification/turnover-certificate.html
+Certificate For Tender Purpose - https://auditorwala.web.app/Certification/certificate-for-tender-purpose.html
+P&L and Balance Sheet Certificate - https://auditorwala.web.app/Certification/p-and-l-and-balance-sheet-certification.html
+Other CA Certification - https://auditorwala.web.app/Certification/other-ca-certification.html
+-04/01/23
+Loan Purpose Certification - https://auditorwala.web.app/Certification/loan-purpose-certification.html
+ITR Certificate - https://auditorwala.web.app/Certification/itr-certificate.html
 
-    GST-6:
-        # <c> <11-01-23> <me> gst-registration <3-plans>
-        # <c> <11-01-23> <me> gst-monthly-return-filing <3-plans>
-        # <c> <11-01-23> <me> gst-annual-return-filing <3-plans>
-        # <c> <05-01-23> <Dhanapal> gst-lut-filing     <no-price>
-        # <c> <05-01-23> <Dhanapal> gst-advisory-services     <no-price>
-        # <c> <05-01-23> <Dhanapal> gst-registration-cancellation     <no-price>
+# GST
+-05/01/23
+GST LUT Filing - https://auditorwala.web.app/GST/gst-lut-filing.html
+GST Advisory Serices - https://auditorwala.web.app/GST/gst-advisory-services.html
+GST Registration Cancellation - https://auditorwala.web.app/GST/gst-registration-cancellation.html
+-11/01/23
+GST-Registration - https://auditorwala.web.app/GST/gst-registration.html
+GST Monthly Return Filing - https://auditorwala.web.app/GST/gst-monthly-return-filing.html
+GST Annual Return Filing - https://auditorwala.web.app/GST/gst-annual-return-filing.html
 
-    Compliances-5:
-        # <c> <07-01-23> <Dhanapal> tds-return-filing
-        # <c> <07-01-23> <Dhanapal> pf-return-filing 
-        # <c> <07-01-23> <Dhanapal> tds-on-property
-        # <c> <08-01-23> <Dhanapal> tds-on-sale-of-property-nri
-        # <c> <08-01-23> <Dhanapal> sale-of-property
+# Compliances
+-07/01/23
+TDS Return Filing - https://auditorwala.web.app/Compliances/tds-return-filing.html
+PF Return Filing - https://auditorwala.web.app/Compliances/pf-return-filing.html
+TDS on Property(26 QB) - https://auditorwala.web.app/Compliances/tds-on-property.html
+-08/01/23
+TDS on Sale of Property (NRI) - https://auditorwala.web.app/Compliances/tds-on-sale-of-property-nri.html
+Sale of Property(Capital gain Tax Planning) - https://auditorwala.web.app/Compliances/sale-of-property.html
 
-    Tax Filing-7:
-        # <Dhanapal> itr-1-return-filing
-        # <Dhanapal> itr-2-return-filing
-        # <Dhanapal> itr-3-return-filing
-        # <Dhanapal> itr-4-return-filing
-        # <c> <11-01-23> <Kalai> itr-5-return-filing
-        # <c> <11-01-23> <Kalai> itr-6-return-filing
-        # <c> <11-01-23> <Kalai> itr-7-return-filing
+# Trademark
+-10/01/23
+Trademark Registration - https://auditorwala.web.app/Trademark/trademark-registration.html
+Trademark Renewal - https://auditorwala.web.app/Trademark/trademark-renewal.html
+Trademark Objection - https://auditorwala.web.app/Trademark/trademark-objection.html
+Trademark Rectification - https://auditorwala.web.app/Trademark/trademark-rectification.html
+Trademark Assignment - https://auditorwala.web.app/Trademark/trademark-assignment.html
 
-    Trademark-5:
-        # <c> <10-01-23> <Dhanapal> trademark-registration
-        # <c> <10-01-23> <Dhanapal> trademark-renewal
-        # <c> <10-01-23> <Dhanapal> trademark-objection
-        # <c> <10-01-23> <Kalai> trademark-rectification
-        # <c> <10-01-23> <Kalai> trademark-assignment
-
-
-# Total Pages: 63
-
-# Total Pages Complete Count 
-Thalha - 17
-
-
-# Service Pages: 58
-# Service Pages Complete Count - 48
-Thalha - 14
-Kalai - 14
-Dhanapal - 26
+# ITR
+-11/01/23
+ITR-5 Return Filing - https://auditorwala.web.app/Tax%20Filing/itr-5-return-filing.html
+ITR-6 Return Filing - https://auditorwala.web.app/Tax%20Filing/itr-6-return-filing.html
+ITR-7 Return Filing - https://auditorwala.web.app/Tax%20Filing/itr-7-return-filing.html
